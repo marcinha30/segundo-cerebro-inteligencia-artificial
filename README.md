@@ -12,10 +12,10 @@ O projeto utiliza o NotebookLM como ferramenta de apoio aos estudos, permitindo 
 
 As fontes utilizadas neste projeto são os materiais adicionados ao notebook sobre Inteligência Artificial.
 
-**Fontes e justificativas:**
-- [IBM]: [O que é a Inteligencia artificial.
-- [Seidor]: [Conceitos basicos da Inteligencia Artificial].
-- [Tableau]: [Tudo sobre Inteligencia Artificial].
+**Fontes :**
+- [IBM]: Dados distrinchados que relatam a Inteligencia artificial.
+- [Seidor]: Informações praticas da Inteligencia Artificial.
+- [Tableau]: Contém conceitos que falam com bastante relevancia sobre Inteligencia Artificial.
 
 ## 🤖 Diretriz de comportamento
 
@@ -34,8 +34,10 @@ O que é inteligência artificial (IA)? | IBM, Tudo Sobre Inteligência Artifici
 
 
 **Evidência:** 
-<img width="549" height="248" alt="Captura de tela 2026-10-06 201219" src="https://github.com/user-attachments/assets/1b7eba95-ec7a-4c87-8b8e-bcb13a0214b8" />
-<img width="436" height="206" alt="Captura de tela 2026-10-06 201318" src="https://github.com/user-attachments/assets/6d6f6ab9-ceac-4a79-8ff0-cf64ac721335" />
+<img width="539" height="268" alt="Captura de tela 2026-10-10 203132" src="https://github.com/user-attachments/assets/5e1a17a2-f93d-495e-a539-4c247032ed47" />
+<img width="525" height="287" alt="Captura de tela 2026-10-10 203117" src="https://github.com/user-attachments/assets/ae812a9f-6c5d-4fe8-8789-128afb94d8bb" />
+<img width="540" height="248" alt="Captura de tela 2026-10-10 203101" src="https://github.com/user-attachments/assets/86286631-4736-4226-b498-a2b0fb88d1b5" />
+<img width="524" height="178" alt="Captura de tela 2026-10-10 203049" src="https://github.com/user-attachments/assets/73e12512-1f76-4655-9407-a3149c34c525" />
 
 ### 2. O que é Machine Learning e qual é sua relação com a Inteligência Artificial?
 
@@ -46,25 +48,10 @@ O que é inteligência artificial (IA)? | IBM, Tudo Sobre Inteligência Artifici
 ###
 
 **Evidência:** 
-<img width="436" height="206" alt="Captura de tela 2026-10-06 201318" src="https://github.com/user-attachments/assets/3dfed472-0100-4e3b-8f9e-271bb8e6aa08" />
-<img width="483" height="240" alt="Captura de tela 2026-10-06 201331" src="https://github.com/user-attachments/assets/b304d089-50aa-45d9-96f0-12ad6af3c167" />
-<img width="400" height="274" alt="Captura de tela 2026-10-10 191602" src="https://github.com/user-attachments/assets/654e475e-c44f-4776-83dd-f5d19c70e843" />
-<img width="507" height="245" alt="Captura de tela 2026-10-10 194741" src="https://github.com/user-attachments/assets/1fb1e5a3-b7c9-4df4-958c-673be085490b" />
-<img width="530" height="264" alt="Captura de tela 2026-10-10 194752" src="https://github.com/user-attachments/assets/6e82d3e4-1916-4d6f-a88a-823ec32ea36b" />
-<img width="535" height="239" alt="Captura de tela 2026-10-10 195047" src="https://github.com/user-attachments/assets/435fd93e-3889-4789-8726-76a1da17faf5" />
-<img width="545" height="211" alt="Captura de tela 2026-10-10 195036" src="https://github.com/user-attachments/assets/a0b63a66-48a8-4a78-985a-db1ff8778845" />
-<img width="523" height="250" alt="Captura de tela 2026-10-10 195018" src="https://github.com/user-attachments/assets/de457cf9-72bd-4432-8090-d9efab5504fe" />
-<img width="504" height="92" alt="Captura de tela 2026-10-10 194814" src="https://github.com/user-attachments/assets/a95a991d-28cc-4e4c-90df-d1415135862f" />
-<img width="542" height="232" alt="Captura de tela 2026-10-10 194804" src="https://github.com/user-attachments/assets/addb927a-ecca-4c97-8686-024cbe3ec3d7" />
-<img width="574" height="131" alt="Captura de tela 2026-10-10 195056" src="https://github.com/user-attachments/assets/d2d33455-aa23-45d9-a7e0-2aab58435d53" />
-
-
-
-
-
-
-
-
+<img width="476" height="136" alt="Captura de tela 2026-10-10 203323" src="https://github.com/user-attachments/assets/a13c3260-170b-4662-83c4-7cef476aa5db" />
+<img width="503" height="248" alt="Captura de tela 2026-10-10 203309" src="https://github.com/user-attachments/assets/15eeaf9e-df5b-4159-95d4-1169f079f21b" />
+<img width="520" height="275" alt="Captura de tela 2026-10-10 203257" src="https://github.com/user-attachments/assets/1a0dea7e-42cc-42cd-9887-b3ea1ea31373" />
+<img width="538" height="171" alt="Captura de tela 2026-10-10 203225" src="https://github.com/user-attachments/assets/ed21dbff-6851-4a7f-996e-3fbe02e7dc19" />
 
 ### 3. O que é Inteligência Artificial Generativa e como ela se diferencia de outras aplicações de IA?
 
