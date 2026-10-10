@@ -47,36 +47,23 @@ O que é inteligência artificial (IA)? | IBM, Tudo Sobre Inteligência Artifici
 <img width="542" height="232" alt="Captura de tela 2026-10-10 194804" src="https://github.com/user-attachments/assets/addb927a-ecca-4c97-8686-024cbe3ec3d7" />
 <img width="574" height="131" alt="Captura de tela 2026-10-10 195056" src="https://github.com/user-attachments/assets/d2d33455-aa23-45d9-a7e0-2aab58435d53" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 2. O que é Machine Learning e qual é sua relação com a Inteligência Artificial?
 
 **Resumo da resposta:** Machine Learning, ou aprendizado de máquina, é um ramo da Inteligência Artificial que permite aos sistemas identificar padrões em dados e realizar previsões ou tomar decisões sem depender exclusivamente de regras programadas manualmente para cada situação.
 
 **Fontes da resposta:**
-O que é inteligência artificial (IA)? | IBM, Tudo Sobre Inteligência Artificial (IA): Significado, Exemplos e Mais 
-
+| IBM, Tudo Sobre Inteligência Artificial (IA): Significado, Exemplos e Mais,Conceitos básicos de Inteligência Artificial | SEIDOR 
 ###
+
 **Evidência:** 
 <img width="436" height="206" alt="Captura de tela 2026-10-06 201318" src="https://github.com/user-attachments/assets/3dfed472-0100-4e3b-8f9e-271bb8e6aa08" />
 
-### 3. Outras perguntas realizadas
+### 3. O que é Inteligência Artificial Generativa e como ela se diferencia de outras aplicações de IA?
 
 **Resumo da resposta:**
 
+modelos de *deep learning* capazes de **criar conteúdos originais e complexos** —
 **Evidência:** 
-
 
 <img width="532" height="274" alt="Captura de tela 2026-10-10 194725" src="https://github.com/user-attachments/assets/3488ae9e-fbd5-4ed8-878c-902797c497a3" />
 <img width="507" height="245" alt="Captura de tela 2026-10-10 194741" src="https://github.com/user-attachments/assets/978b05f4-8688-4999-90b3-07bbf40d85ad" />
@@ -84,22 +71,26 @@ O que é inteligência artificial (IA)? | IBM, Tudo Sobre Inteligência Artifici
 <img width="542" height="232" alt="Captura de tela 2026-10-10 194804" src="https://github.com/user-attachments/assets/0769d34a-6abe-44a0-b4a2-f01a6ae51fa9" />
 
 
-
-
 **Fontes da resposta:**
-O que é inteligência artificial (IA)? | IBM, Tudo Sobre Inteligência Artificial (IA): Significado, Exemplos e Mais 
+O que é inteligência artificial (IA)? | IBM, Tudo Sobre Inteligência Artificial (IA): Significado, Exemplos e Mais,Conceitos básicos de Inteligência Artificial | SEIDOR 
+
+## 
 
 
 ## 📎 Materiais do projeto
 
-- `materiais/mapa-mental.png` — mapa mental sobre Inteligência Artificial.
-- `materiais/slides.pdf` — apresentação sobre o tema.
-- `evidencias/` — capturas de tela das perguntas, respostas e citações.
+ — mapa mental sobre Inteligência Artificial.
+<img width="9334" height="7537" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/579aa8dc-cd2a-47e1-a081-202956eb5e60" />
+  
+ — apresentação sobre o tema.
+
+[Arquitetura_da_Inteligência_Artificial.pdf](https://github.com/user-attachments/files/33293218/Arquitetura_da_Inteligencia_Artificial.pdf)
 
 ## 🔗 Notebook compartilhado
-
-[Inserir o link compartilhado do NotebookLM.]
+https://notebook.google.com/notebook/d16518f4-5ee9-457e-bff1-1ee4f2a0bb4d
 
 ## 👩‍💻 Autora
+
+Márcia Cristina Jaublot de Souza
 
 Projeto desenvolvido como atividade prática de pesquisa, organização do conhecimento e uso responsável da Inteligência Artificial.
